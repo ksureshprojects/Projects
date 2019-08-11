@@ -1,0 +1,2 @@
+DEVICES@
+NAND (4) Strawberry

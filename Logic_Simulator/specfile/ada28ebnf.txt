@@ -1,0 +1,58 @@
+----------------------------------- VER 1 FINAL -----------------------------------
+letter = "A" | "B" | "C" | "D" | "E" | "F" | "G"
+       | "H" | "I" | "J" | "K" | "L" | "M" | "N"
+       | "O" | "P" | "Q" | "R" | "S" | "T" | "U"
+       | "V" | "W" | "X" | "Y" | "Z" | "a" | "b"
+       | "c" | "d" | "e" | "f" | "g" | "h" | "i"
+       | "j" | "k" | "l" | "m" | "n" | "o" | "p"
+       | "q" | "r" | "s" | "t" | "u" | "v" | "w"
+       | "x" | "y" | "z" | "_";
+digitplus = | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;
+digit = digitplus | "0";
+
+specfile = dev_block, con_block, mon_block, "END";
+dev_block = "DEVICES", ":", dev, {",", dev}, ";";
+con_block = "CONNECTIONS", ":", con, {",", con}, ";";
+mon_block = "MONITORS", ":", signame, {",",signame}, ";";
+
+dev = logictype, ["(", config_list, ")"], "=", name ;
+logictype = "CLOCK" | "SWITCH" | "AND" | "NAND" | "NOR" | "OR" | "DTYPE" | "XOR" | "SIGGEN";
+config_list = configvar, {"-", configvar}
+configvar = digit | (digitplus, {digit});
+name = letter, {digit | letter};
+
+con = signame, "=", signame;
+signame = name, port;
+port = [".", name];
+
+----------------------------------- VER 2 DISCARD -----------------------------------
+letter = "A" | "B" | "C" | "D" | "E" | "F" | "G"
+       | "H" | "I" | "J" | "K" | "L" | "M" | "N"
+       | "O" | "P" | "Q" | "R" | "S" | "T" | "U"
+       | "V" | "W" | "X" | "Y" | "Z" | "a" | "b"
+       | "c" | "d" | "e" | "f" | "g" | "h" | "i"
+       | "j" | "k" | "l" | "m" | "n" | "o" | "p"
+       | "q" | "r" | "s" | "t" | "u" | "v" | "w"
+       | "x" | "y" | "z" ;
+digitplus = | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;
+digit = digitplus | "0";
+
+
+specfile = dev_block, con_block, mon_block;
+dev_block = "DEVICES", dev, {dev};
+con_block = "CONNECTIONS", {con};
+mon_block = "MONITORS", {mon};
+
+dev = (clk | swc | gates | noconf) "=", name,  ";";
+clk = "CLK", digitplus, {digit} ;
+swc = "SWC", ("0" | "1");
+gates = ("AND" | "NAND"| "OR"| "NOR"), ("1" | "2" | "3" | "4" | "5" | "6"
+        | "7" | "8" | "9"| "10" | "11" | "12" | "13" | "14" | "15" | "16")
+noconf = "DTYPE" | "XOR";
+name = letter, {digit | letter};
+
+con = name, [".", port], "=", name, ".", port, ";";
+port = "Q" | "QBAR" | "DATA" | "CLK" | "SET" | "CLEAR" | ("I", ("1" | "2" | "3" | "4" | "5" | "6"
+        | "7" | "8" | "9"| "10" | "11" | "12" | "13" | "14" | "15" | "16"))
+
+mon = name, [".", port], ';';

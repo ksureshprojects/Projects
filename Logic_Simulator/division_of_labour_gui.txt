@@ -1,0 +1,37 @@
+The file gui.py was written by both Karthik Suresh
+and David Almasan. This file outlines the sections
+within gui.py ammended by each party.
+
+Karthik Suresh:
+    _init_ (Major Edits)
+    _re_render (Creator)
+    _gen_lists (Creator)
+    _regen_monitored (Creator)
+    _run_network (Creator)
+    _verify_number (Creator)
+    _get_file_name (Creator)
+    on_conf_select (Creator)
+    on_remove (Creator)
+    on_show (Creator)
+    on_config_button (Creator)
+    on_continue_button (Creator)
+    on_run_button (Creator)
+    on_2D (Creator)
+    on_3D (Creator)
+    on_reset (Creator)
+    on_reload (Creator)
+    on_open (Minor Edits)
+    updatelanguage (Minor Edits)
+
+David Almasan:
+    on_open (Creator)
+    updatelanguage (Creator)
+    on_menu (Major Edits)
+    on_conf_select (Minor Edits)
+    on_remove (Minor Edits)
+    on_show (Minor Edits)
+    on_config_button (Minor Edits)
+    on_continue_button (Minor Edits)
+    on_run_button (Minor Edits)
+    Implemented all language features and wrappers.
+    

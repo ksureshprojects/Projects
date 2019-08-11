@@ -1,0 +1,51 @@
+/* Vending machine circuit
+Only allowed to input £1 and 50p coins
+No change provided if £2 inserted
+*/
+
+# Only 1 coin can be inserted at a time
+# so both inputs shouldn't be high at the same time
+
+DEVICES:
+    AND(2) = and1, AND(2) = and2, AND(2) = and3, AND(2) = and4, AND(2) = and5,
+    AND(2) = anda, AND(2) =  andb, AND(2) = andc,
+    NOR(1) = notb,
+    OR(4) = or1, OR(3) = or2,
+    AND(2) = deliver,
+    DTYPE = d1, DTYPE = d2,
+    CLOCK(3) = clk,
+    SWITCH(0) = 1pound, SWITCH(0) = 50p,
+    SWITCH(0) = swc1, SWITCH(0) = swc2;
+
+# Inputs will be changed one at a time to simulate vending machine
+
+CONNECTIONS:
+    1pound = and1.I1, 1pound = and2.I1, 1pound = andc.I2,
+    50p = and5.I1, 50p = anda.I1, 50p = notb.I1,
+    notb = andb.I2,
+    d1.QBAR = and1.I2, d1.QBAR = and4.I1,
+    d1.Q = and3.I1, d1.Q = deliver.I1,
+    d2.QBAR = and2.I2, d2.QBAR = and3.I2, d2.QBAR = and5.I2,
+    d2.Q = and4.I2, d2.Q = deliver.I2,
+    clk = d1.CLK, clk = d2.CLK,
+    and1 = or1.I1,
+    and2 = or1.I2,
+    and3 = or1.I3, and3 = andc.I1,
+    and4 = andb.I1, and4 = anda.I2,
+    and5 = or2.I3,
+    anda = or1.I4,
+    andb = or2.I1,
+    andc = or2.I2,
+    or1 = d1.DATA,
+    or2 = d2.DATA,
+    swc1 = d1.SET, swc1 = d2.SET,
+    swc2 = d1.CLEAR, swc2 = d2.CLEAR;
+
+/* Only need to monitor overall output from circuit */
+
+MONITORS:
+    deliver;
+
+END
+
+# Additional interesting points to monitor include dtype inputs. 

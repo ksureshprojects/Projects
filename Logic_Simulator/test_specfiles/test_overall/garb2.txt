@@ -1,0 +1,15 @@
+DEVICES:
+CLOCK(2) = clk,
+SIGGEN(1-1-0-1-0 -1-1-1-1-0) = sig,
+NAD(2) = nand2;
+
+
+CONNECTIONS:
+clk = nand2.I1,
+sig = nand2.I2;
+
+MONITORS:
+sig,
+nand2;
+
+END

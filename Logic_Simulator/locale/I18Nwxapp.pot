@@ -1,0 +1,382 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-06-05 22:06+BST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:99
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:898
+msgid "&About"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:100
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:899
+msgid "&Exit"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:101
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:900
+msgid "&Open"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:106
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:903
+msgid "&English"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:107
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:904
+msgid "&Română"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:110
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:901
+msgid "2D Display"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:111
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:902
+msgid "3D Display"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:115
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:905
+msgid "&File"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:116
+msgid "View"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:117
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:907
+msgid "Language"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:160
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:882
+msgid "Run"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:161
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:883
+msgid "Continue"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:163
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:884
+msgid "Apply"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:182
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:885
+msgid "Show"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:188
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:886
+msgid "Remove"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:190
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:887
+msgid "2D View"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:191
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:888
+msgid "3D View"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:192
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:889
+msgid "Reset View"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:193
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:890
+msgid "Reload File"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:237
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:892
+msgid "Activity Log"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:238
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:893
+msgid "Cycles"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:239
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:894
+msgid "Configure Devices"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:240
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:895
+msgid "Outputs"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:241
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:896
+msgid "Monitored Outputs"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:451
+msgid "***Error: Network oscillating."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:492
+msgid ""
+"Logic Simulator\n"
+"Created by "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:495
+msgid "2019 IIB Summer Term"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:495
+msgid "About Logsim"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:568
+msgid "Running for "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:569
+msgid " cycles"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:586
+msgid "Error! Nothing to continue. Run first."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:590
+msgid "Continuing for "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:592
+msgid " Total:"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:592
+msgid " cycles."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:613
+msgid "Successfully set switch "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:621
+msgid "Error! Invalid switch."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:625
+msgid "Error! Switch state must be "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:626
+msgid "0 (OFF) or 1 (ON)."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:639
+msgid "Successfully set CLOCK "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:641
+msgid " half-period to "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:646
+msgid "Error! Invalid CLOCK."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:652
+msgid "positive integer"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:672
+msgid "Successfully made monitor."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:677
+msgid "Error! Monitor already "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:678
+msgid "selected."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:696
+msgid "Successfully zapped monitor"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:705
+msgid "Error! Could not zap monitor."
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:724
+msgid "Open Text file"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:725
+msgid "Text files"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:800
+msgid "Successfully loaded new file!"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:803
+msgid "Successfully reloaded file!"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:814
+msgid "***ERROR: Circuit could not "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:815
+msgid "be parsed. Try again"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:906
+msgid "&View"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:124
+msgid "***ERROR: Expected DEVICES keyword"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:126
+msgid "***ERROR: Expected CONNECTIONS keyword"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:128
+msgid "***ERROR: Expected MONITORS keyword"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:130
+msgid "***ERROR: Expected END keyword"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:132
+msgid "***ERROR: Expected End Of File"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:134
+msgid "***ERROR: Expected a colon"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:136
+msgid "***ERROR: Expected a comma"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:138
+msgid "***ERROR: Expected a semicolon"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:140
+msgid "***ERROR: Expected an equals symbol"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:142
+msgid "***ERROR: Expected a positive integer or 0"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:144
+msgid "***ERROR: Expected a string of characters not including reserved words"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:147
+msgid "***ERROR: Expected logic types CLOCK, SWITCH, AND, NAND, NOR, OR, DTYPE, SIGGEN or XOR"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:150
+msgid "***ERROR: Expected a left bracket"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:152
+msgid "***ERROR: Expected a right bracket"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:154
+msgid "***ERROR: Invalid configuration variable"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:156
+msgid "***ERROR: Expected configuration variable"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:158
+msgid "***ERROR: Expected logic types CLOCK, SWITCH, AND, NAND, NOR, OR, DTYPE or XOR"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:161
+msgid "***ERROR: Did not expect configuration variable"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:163
+msgid "***ERROR: Device already defined"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:165
+msgid "***ERROR: Too many configuration variables specified"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:167
+msgid "***ERROR: Invalid configuration variables used - only 0s and 1s accepted"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:170
+msgid "***ERROR: Input is connected to an input"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:172
+msgid "***ERROR: Output is connected to an output"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:174
+msgid "***ERROR: Input has already been connected"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:176
+msgid "***ERROR: Port is absent"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:178
+msgid "***ERROR: Device is absent"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:180
+msgid "***ERROR: Only monitor outputs"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:182
+msgid "***ERROR: Output has already been monitored"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:184
+msgid "***ERROR: Unused inputs in file definition"
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:575
+msgid "Total number of errors: "
+msgstr ""
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/scanner.py:285
+msgid "Line: "
+msgstr ""
+

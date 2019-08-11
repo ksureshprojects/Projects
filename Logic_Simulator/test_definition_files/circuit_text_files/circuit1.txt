@@ -1,0 +1,27 @@
+DEVICES: /* There are 3 clocks, 2 switches, 1 nand, 1 xor and 1 dtype */
+CLOCK(8) = CLK1,
+CLOCK(1) = CLK2,
+CLOCK(1) = CLK3,
+SWITCH(0) = SWC1,
+SWITCH(1) = SWC2,
+NAND(2)= NAND1,
+XOR = XOR1,
+DTYPE = DTYPE1;
+# Start connections block
+CONNECTIONS:
+CLK1 = DTYPE1.SET,
+CLK2 = DTYPE1.DATA,
+CLK3 = DTYPE1.CLK,
+SWC1 = DTYPE1.CLEAR,
+DTYPE1.Q = NAND1.I1,
+SWC2 = NAND1.I2,
+NAND1 = XOR1.I1,
+SWC2 = XOR1.I2; 
+/* For now,
+only monitor 3 outputs*/ 
+MONITORS:
+NAND1,
+XOR1,
+DTYPE1.Q;
+
+END

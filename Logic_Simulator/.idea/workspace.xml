@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93bd85e4-3997-4a1f-a92f-ae9544f1a9c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1796224969">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="10" />
+          <entry key="project.open.time.7" value="13" />
+          <entry key="project.open.time.8" value="7" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="13534" />
+          <entry key="txt" value="5775" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5775" />
+          <entry key="Python" value="13534" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="1" />
+          <entry key="png" value="3" />
+          <entry key="py" value="86" />
+          <entry key="txt" value="128" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="4" />
+          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="Python" value="86" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="651" column="50" lean-forward="true" selection-start-line="651" selection-start-column="50" selection-end-line="651" selection-end-column="50" />
+              <folding>
+                <element signature="e#257#267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logsim.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+              <folding>
+                <element signature="e#389#402#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/load_gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scanner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2958">
+              <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PORT</find>
+      <find>lookup</find>
+      <find>err</find>
+      <find>sym</find>
+      <find>MON</find>
+      <find>sys</find>
+      <find>str</find>
+      <find>REMOVE</find>
+      <find>.pos</find>
+      <find>no_comma</find>
+      <find>print</find>
+      <find>invalid</find>
+      <find>device_pres</find>
+      <find>no_qua</find>
+      <find>device_ab</find>
+      <find>device_pre</find>
+      <find>input_con</find>
+      <find>BAD_DEV</find>
+      <find>user_feed</find>
+      <find>todo</find>
+      <find>appen</find>
+      <find>id_open</find>
+      <find>open</find>
+      <find>about</find>
+      <find>Devices</find>
+      <find>parse</find>
+      <find>traces_can</find>
+      <find>print_err</find>
+      <find>remove_co</find>
+      <find>act_log</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/prelim/ada28/exercise.py" />
+        <option value="$PROJECT_DIR$/prelim/ada28/mynames.py" />
+        <option value="$PROJECT_DIR$/specfile/ada28ebnf.txt" />
+        <option value="$PROJECT_DIR$/specfile/specfile_example.txt" />
+        <option value="$PROJECT_DIR$/specfile/circuit2_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_foo.py" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/temp.txt" />
+        <option value="$PROJECT_DIR$/specfile/circuit1_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_scanner/test_remove_comment.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit3_specfile .txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit1_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit5_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit2_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit3_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit4_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit6_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit8_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit9_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit12_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit14_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit7_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit13_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit10_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit15_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit16_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit18_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit19_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit22_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit24_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit25_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit20_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit26_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit27_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit17_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit21_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit23_specfile.txt" />
+        <option value="$PROJECT_DIR$/test_scanner.py" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_parse/circuit11_specfile.txt" />
+        <option value="$PROJECT_DIR$/parse.py" />
+        <option value="$PROJECT_DIR$/test_specfiles/test_scanner/test_print_error.txt" />
+        <option value="$PROJECT_DIR$/specfile/empty_specfile.txt" />
+        <option value="$PROJECT_DIR$/load_gui.py" />
+        <option value="$PROJECT_DIR$/test_parse.py" />
+        <option value="$PROJECT_DIR$/scanner.py" />
+        <option value="$PROJECT_DIR$/gui.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="width" value="783" />
+    <option name="height" value="845" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Logic_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Logic_simulator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mortu\Desktop\Programming\Python_projects\Logic_simulator\test_specfiles\test_parse" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.load_gui">
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Logic_simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Logic_simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scanner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Logic_simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scanner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_parse.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Logic_simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_parse.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_scanner.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Logic_simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_scanner.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in test_scanner.py" />
+      <item itemvalue="Python tests.pytest in test_parse.py" />
+      <item itemvalue="Python.gui" />
+      <item itemvalue="Python.scanner" />
+      <item itemvalue="Python.load_gui" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.load_gui" />
+        <item itemvalue="Python.scanner" />
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python tests.pytest in test_parse.py" />
+        <item itemvalue="Python tests.pytest in test_scanner.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93bd85e4-3997-4a1f-a92f-ae9544f1a9c9" name="Default Changelist" comment="" />
+      <created>1557579349873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557579349873</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Correct mistakes in ebnf file">
+      <created>1557677522535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557677522535</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add 2 versions of grammar rules">
+      <created>1557757908084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557757908084</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add updated EBNF">
+      <created>1557824422609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557824422609</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implement scanner get_symbol method with additional helping methods">
+      <created>1557834473835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557834473835</updated>
+    </task>
+    <task id="LOCAL-00010" summary="started print_error method for scanner">
+      <created>1557843808334</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557843808334</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Done printing of errors">
+      <created>1557845917399</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557845917399</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed return of symbol type in scanner module, and small syntax mistake&#10;in parse module">
+      <created>1558021603580</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558021603580</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added minor changes to the grammar rules">
+      <created>1558035974789</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558035974789</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated version of EBNF rules.">
+      <created>1558091621816</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558091621816</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated EBNF and example circuit">
+      <created>1558092238718</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558092238718</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Created 2 example files for specfile together with the respective circuit diagrams">
+      <created>1558180331501</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558180331501</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated scanner._get_alphanum() to scanner._get_next_symbol() which is &#10;more generic. &#10;&#10;Update the scanner.get_symbol() method to return the symbol. New &#10;functionality includes generality in the sense that it should work with &#10;any grammar">
+      <created>1558431131812</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1558431131812</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fixed bugs in scanner.get_symbol(). Bugs included not recognising confvar&#10;at all, not picking up colon as a COLON type">
+      <created>1558432939592</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1558432939592</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added self.EOF to symbol type list">
+      <created>1558443710121</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1558443710121</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Started doing the pytests for the parser">
+      <created>1558446334469</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558446334469</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Changed structure of test specfiles to organise between different tests">
+      <created>1558446571121</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1558446571121</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Done body for test_parse.py. Need to create specfiles to test">
+      <created>1558449247007</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1558449247007</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added another test to test_parse.py">
+      <created>1558450586741</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1558450586741</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Started error list integration in test_parse">
+      <created>1558692969057</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1558692969057</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Investigating possible Windows tell() issue">
+      <created>1558697716781</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1558697716781</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added remove comment functionality to scanner. TODO: Need to also remove &#10;single line comments">
+      <created>1558718882069</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558718882069</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Solved bugs in scanner to comply with tests. Cannot seem to solve test_print_error() yet">
+      <created>1558787308919</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558787308919</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added one line comment functionality to scanner">
+      <created>1558787655767</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558787655767</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added a test for one line functionality in test_scanner">
+      <created>1558787916811</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558787916811</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Testing possible Windows bugs in test_parse">
+      <created>1558792653828</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1558792653828</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Small edit in test_parse">
+      <created>1558793942624</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1558793942624</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Introduced layout for tests for syntax errors. Need method for parsing error codes from Parser directly for testing to work. Error codes used currently are placeholders for actual error codes.&#10;Added specfiles for all test_parse tests. Currently edited files responsible for syntax errors (files 1-15)">
+      <created>1558795954543</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1558795954543</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Adapted some tests because they were eyeing different errors than intended">
+      <created>1558812413687</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1558812413687</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Adapted some tests because they were eyeing different errors than intended">
+      <created>1558812652568</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1558812652568</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Adjusted some tests">
+      <created>1558868020468</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1558868020468</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Adjusted parser tests">
+      <created>1558868227374</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1558868227374</updated>
+    </task>
+    <task id="LOCAL-00037" summary="All scanner tests passed">
+      <created>1558962087837</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1558962087837</updated>
+    </task>
+    <task id="LOCAL-00038" summary="All scanner tests passed">
+      <created>1558962204659</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1558962204659</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added writing to activity log in gui.py">
+      <created>1558975106242</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1558975106242</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Check small bug in gui activity log error handling">
+      <created>1558976960502</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1558976960502</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Update gui to show messages in Activity Log">
+      <created>1558990005712</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1558990005712</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Update gui to show messages in Activity Log to also have new line">
+      <created>1558990430614</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1558990430614</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Adjusted parse tests">
+      <created>1559031116633</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1559031116633</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Initial version of file selection in gui">
+      <created>1559034164841</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1559034164841</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Added scanner print_error return message to get sent to parser, which will be shown in the activity log">
+      <created>1559037655689</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1559037655689</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Fixed small bug in print_error within scanner">
+      <created>1559047911413</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1559047911414</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Added error printing within gui">
+      <created>1559048365659</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1559048365659</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Added spacing between errors in activity log">
+      <created>1559048719109</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1559048719109</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Fixed multi line comment removal in scanner">
+      <created>1559051417440</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1559051417440</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Created file for loading gui with default circuit load_gui.py">
+      <created>1559053251397</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1559053251398</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Added check for .txt file input in load_gui.py">
+      <created>1559053971665</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1559053971665</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Formated test_parse.py to comply with pep8 standards">
+      <created>1559159626751</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1559159626752</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Formated scanner.py to comply with pep8 standards">
+      <created>1559159948561</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1559159948561</updated>
+    </task>
+    <task id="LOCAL-00054" summary="removed unnecessary self.Update()">
+      <created>1559480559894</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1559480559895</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_parse_test_parse_network - 2019.05.25 at 20h 13m 43s.xml">
+      <configuration name="pytest for test_parse.test_parse_network" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_parse_test_parse_network - 2019.05.25 at 20h 14m 28s.xml">
+      <configuration name="pytest for test_parse.test_parse_network" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_parse_test_parse_network - 2019.05.25 at 20h 14m 38s.xml">
+      <configuration name="pytest for test_parse.test_parse_network" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_parse_test_parse_network - 2019.05.25 at 20h 33m 16s.xml">
+      <configuration name="pytest for test_parse.test_parse_network" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_parse_test_parse_network - 2019.05.26 at 11h 28m 42s.xml">
+      <configuration name="pytest for test_parse.test_parse_network" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_parse_py - 2019.05.26 at 11h 29m 12s.xml">
+      <configuration name="pytest in test_parse.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scanner_py - 2019.05.27 at 13h 58m 14s.xml">
+      <configuration name="pytest in test_scanner.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scanner_py - 2019.05.27 at 13h 58m 45s.xml">
+      <configuration name="pytest in test_scanner.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scanner_py - 2019.05.27 at 13h 59m 21s.xml">
+      <configuration name="pytest in test_scanner.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scanner_py - 2019.05.27 at 14h 00m 29s.xml">
+      <configuration name="pytest in test_scanner.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18387777" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.38865247" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4976867" weight="0.32765958" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49841937" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2548807" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015806" side_tool="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1473893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.4212766" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4976867" weight="0.32765958" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32765958" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2559653" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50231326" side_tool="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added one line comment functionality to scanner" />
+    <MESSAGE value="Added a test for one line functionality in test_scanner" />
+    <MESSAGE value="Testing possible Windows bugs in test_parse" />
+    <MESSAGE value="Small edit in test_parse" />
+    <MESSAGE value="Introduced layout for tests for syntax errors. Need method for parsing error codes from Parser directly for testing to work. Error codes used currently are placeholders for actual error codes.&#10;Added specfiles for all test_parse tests. Currently edited files responsible for syntax errors (files 1-15)" />
+    <MESSAGE value="Adapted some tests because they were eyeing different errors than intended" />
+    <MESSAGE value="Adjusted some tests" />
+    <MESSAGE value="Adjusted parser tests" />
+    <MESSAGE value="All scanner tests passed" />
+    <MESSAGE value="Added writing to activity log in gui.py" />
+    <MESSAGE value="Check small bug in gui activity log error handling" />
+    <MESSAGE value="Update gui to show messages in Activity Log" />
+    <MESSAGE value="Update gui to show messages in Activity Log to also have new line" />
+    <MESSAGE value="Adjusted parse tests" />
+    <MESSAGE value="Initial version of file selection in gui" />
+    <MESSAGE value="Added scanner print_error return message to get sent to parser, which will be shown in the activity log" />
+    <MESSAGE value="Fixed small bug in print_error within scanner" />
+    <MESSAGE value="Added error printing within gui" />
+    <MESSAGE value="Added spacing between errors in activity log" />
+    <MESSAGE value="Fixed multi line comment removal in scanner" />
+    <MESSAGE value="Created file for loading gui with default circuit load_gui.py" />
+    <MESSAGE value="Added check for .txt file input in load_gui.py" />
+    <MESSAGE value="Formated test_parse.py to comply with pep8 standards" />
+    <MESSAGE value="Formated scanner.py to comply with pep8 standards" />
+    <MESSAGE value="removed unnecessary self.Update()" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary self.Update()" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/temp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specfile/ada28ebnf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specfile/circuit1_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specfile/circuit2_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_scanner/test_remove_comment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_scanner/test_get_symbol.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_scanner/test_get_next_symbol.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/_bootlocale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/temp2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit3_specfile .txt" />
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit2_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit3_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit4_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit5_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit8_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit9_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit12_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit14_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit1_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit7_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit10_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit15_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_devices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="96" column="58" selection-start-line="96" selection-start-column="51" selection-end-line="96" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit16_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit18_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit19_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit22_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit24_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit20_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit25_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit26_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit17_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="125" column="43" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit21_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit23_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="334" column="37" selection-start-line="334" selection-start-column="30" selection-end-line="334" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="38" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit13_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit6_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specfile/empty_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_scanner/test_print_error.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit11_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_specfiles/test_parse/circuit27_specfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="651" column="50" lean-forward="true" selection-start-line="651" selection-start-column="50" selection-end-line="651" selection-end-column="50" />
+          <folding>
+            <element signature="e#257#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logsim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding>
+            <element signature="e#389#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scanner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

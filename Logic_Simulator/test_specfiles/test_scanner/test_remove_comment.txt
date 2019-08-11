@@ -1,0 +1,4 @@
+/**//* Hello World */
+# This is a one line comment followed by a device NAND
+NAND /*mid line comment*/ = nand1 # End line comment
+NOR

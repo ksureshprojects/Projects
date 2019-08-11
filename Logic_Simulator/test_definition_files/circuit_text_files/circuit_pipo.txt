@@ -1,0 +1,61 @@
+# Parallel In Parallel Out Shift Register
+
+/* 2 inputs NOR gates are used
+in place of NOT gates */
+
+DEVICES:
+CLOCK(1) = clk,
+DTYPE = d1,
+DTYPE = d2,
+DTYPE = d3,
+SWITCH(0) = serial_in,
+SWITCH(1) = load,
+SWITCH(1) = inp1,
+SWITCH(1) = inp2,
+SWITCH(0) = inp3,
+NAND(2) = nan1a,
+NAND(2) = nan1b,
+NAND(2) = nan2a,
+NAND(2) = nan2b,
+NAND(2) = nan3a,
+NAND(2) = nan3b,
+NOR(2) = nor1,
+NOR(2) = nor2,
+NOR(2) = nor3;
+
+CONNECTIONS:
+serial_in = d1.DATA,
+d1.Q = d2.DATA,
+d2.Q = d3.DATA,
+clk = d1.CLK,
+clk = d2.CLK,
+clk = d3.CLK,
+load = nan1a.I1,
+load = nan1b.I1,
+load = nan2a.I1,
+load = nan2b.I1,
+load = nan3a.I1,
+load = nan3b.I1,
+inp1 = nan1a.I2,
+inp1 = nor1.I1,
+inp1 = nor1.I2,
+nor1 = nan1b.I2,
+inp2 = nan2a.I2,
+inp2 = nor2.I1,
+inp2 = nor2.I2,
+nor2 = nan2b.I2,
+inp3 = nan3a.I2,
+inp3 = nor3.I1,
+inp3 = nor3.I2,
+nor3 = nan3b.I2,
+nan1a = d1.SET,
+nan1b = d1.CLEAR,
+nan2a = d2.SET,
+nan2b = d2.CLEAR,
+nan3a = d3.SET,
+nan3b = d3.CLEAR;
+
+MONITORS:
+d1.Q, d2.Q, d3.Q;
+
+END

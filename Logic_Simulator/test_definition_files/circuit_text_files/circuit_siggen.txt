@@ -1,0 +1,20 @@
+/* This is a half adder circuit as there is no carry in bit */
+
+DEVICES:
+# Note signal generators of different lengths are defined
+SIGGEN(1-0-0-0-1-1-1-0-1) = siggen1,
+SIGGEN(0-0-1-1-1) = siggen2,
+AND(2) = and1,
+XOR = xor1;
+
+CONNECTIONS:
+siggen1 = and1.I1,
+siggen1 = xor1.I1,
+siggen2 = and1.I2,
+siggen2 = xor1.I2;
+
+MONITORS:
+# The XOR output is the sum
+and1,
+# The AND output is the carry bit
+xor1; END

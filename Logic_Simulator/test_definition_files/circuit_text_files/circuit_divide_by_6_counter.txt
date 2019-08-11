@@ -1,0 +1,31 @@
+/* This circuit counts in binary to a value of 5 after 
+which it restarts. d1.Q represents the least significant bit
+and d3.Q represents the most significant bit. */
+DEVICES:
+CLOCK(1) = clk,
+AND(2) = and,
+SWITCH(0) = sw1,
+DTYPE = d1,
+DTYPE = d2,
+DTYPE = d3;
+
+# Asynchronous circuit may cause real circuit
+# to have hazards.
+
+CONNECTIONS:
+clk = d1.CLK,
+d1.QBAR = d1.DATA, d1.QBAR = d2.CLK,
+d2.Q = and.I1,
+d2.QBAR = d2.DATA, d2.QBAR = d3.CLK,
+d3.Q = and.I2,
+d3.QBAR = d3.DATA,
+and = d1.CLEAR, and = d2.CLEAR, and = d3.CLEAR,
+sw1 = d1.SET, sw1 = d2.SET, sw1 = d3.SET;
+
+MONITORS:
+clk,
+d1.Q,
+d2.Q,
+d3.Q;
+
+END

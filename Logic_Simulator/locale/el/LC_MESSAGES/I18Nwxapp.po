@@ -1,0 +1,353 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-06-02 15:10+BST\n"
+"PO-Revision-Date: 2019-06-04 09:25+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Last-Translator: david <ada28@cam.ac.uk>\n"
+"Language-Team: \n"
+"Language: ro\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:82
+msgid "&About"
+msgstr "&Despre"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:83
+msgid "&Exit"
+msgstr "&Închide"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:84
+msgid "&Open"
+msgstr "&Deschide"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:87
+msgid "2D Display"
+msgstr "Vizualizare 2D"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:88
+msgid "3D Display"
+msgstr "Vizualizare 3D"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:92
+msgid "&File"
+msgstr "&Fișier"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:93
+msgid "View"
+msgstr "&Vizualizare"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:136
+msgid "Language"
+msgstr "Limba"
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:136
+msgid "Run"
+msgstr "Rulează"
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:137
+msgid "Continue"
+msgstr "Continuă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:139
+msgid "Apply"
+msgstr "Aplică"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:158
+msgid "Show"
+msgstr "Arată"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:164
+msgid "Remove"
+msgstr "Ascunde"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:166
+msgid "2D View"
+msgstr "Imagine 2D"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:167
+msgid "3D View"
+msgstr "Imagine 3D"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:168
+msgid "Reset View"
+msgstr "Resetează cadrul"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:169
+msgid "Reload File"
+msgstr "Reîncarcă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:214
+msgid "Activity Log"
+msgstr "Jurnal de activitate"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:215
+msgid "Cycles"
+msgstr "Cicluri"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:216
+msgid "Configure Devices"
+msgstr "Configurează dispozitiv"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:217
+msgid "Outputs"
+msgstr "Ieșiri"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:218
+msgid "Monitored Outputs"
+msgstr "Ieșiri monitorizate"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:422
+msgid "***Error: Network oscillating"
+msgstr "***EROARE: Circuit oscilant"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:463
+msgid ""
+"Logic Simulator\n"
+"Created by "
+msgstr ""
+"Logic Simulator\n"
+"Creat de "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:465
+msgid "2019 IIB Summer Term"
+msgstr "μπορεί επίσης να εμφανιστεί Ελληνικά"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:465
+msgid "About Logsim"
+msgstr "Despre Logsim"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:530
+msgid "Running for "
+msgstr "Rulând pentru "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:531
+msgid " cycles"
+msgstr " cicluri"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:548
+msgid "Error! Nothing to continue. Run first."
+msgstr "***EROARE: Nu se poate continua. Rulează mai întâi"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:552
+msgid "Continuing for"
+msgstr "Continuând pentru "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:554
+msgid "Total:"
+msgstr "Total:"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:554
+msgid "cycles."
+msgstr "cicluri"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:574
+msgid "Successfully set switch "
+msgstr "Setat cu succes întrerupătorul "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:582
+msgid "Error! Invalid switch."
+msgstr "***EROARE: Întrerupătorul e invalid."
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:586
+msgid "Error! Switch state must be "
+msgstr "***EROARE: Întrerupătorul poate fi setat doar cu "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:587
+msgid "0 (OFF) or 1 (ON)."
+msgstr "0 (OPRIT) sau 1 (PORNIT)."
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:600
+msgid "Successfully set CLOCK "
+msgstr "Setat cu success ceasul "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:602
+msgid " half-period to "
+msgstr " la jumătate de perioadă "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:607
+msgid "Error! Invalid CLOCK."
+msgstr "***EROARE: Ceas invalid."
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:611
+msgid "Error! CLOCK half-period must be "
+msgstr "***EROARE: Perioada ceasului trebuie sa fie "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:612
+msgid "positive integer"
+msgstr "număr întreg mai mare ca zero"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:635
+msgid "Successfully made monitor."
+msgstr "Creat cu succes monitorul."
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:640
+msgid "Error! Monitor already "
+msgstr "***EROARE: Monitor deja "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:641
+msgid "selected."
+msgstr "existent."
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:659
+msgid "Successfully zapped monitor"
+msgstr "Ascuns cu succes monitorul"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:667
+msgid "Error! Could not zap monitor."
+msgstr "***EROARE: Nu s-a putut ascunde monitorul."
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:686
+msgid "Open Text file"
+msgstr "Deschide fișier text"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:687
+msgid "Text files"
+msgstr "Fișiere text"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:751
+msgid "Successfully loaded new file!"
+msgstr "Încărcat cu succes fișier nou!"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:753
+msgid "Successfully reloaded file!"
+msgstr "Reîncărcat cu succes fișierul"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:759
+msgid "***ERROR: Circuit could not "
+msgstr "***EROARE: Circuitul nu a putut fi "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/gui.py:760
+msgid "be parsed. Try again"
+msgstr "descifrat. Mai Încearcă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:119
+msgid "***ERROR: Expected DEVICES keyword"
+msgstr "***EROARE: Se aștepta cuvânt cheie DEVICES"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:121
+msgid "***ERROR: Expected CONNECTIONS keyword"
+msgstr "***EROARE: Se aștepta cuvânt cheie CONNECTIONS"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:123
+msgid "***ERROR: Expected MONITORS keyword"
+msgstr "***EROARE: Se aștepta cuvânt cheie MONITORS"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:125
+msgid "***ERROR: Expected END keyword"
+msgstr "***EROARE: Se aștepta cuvânt cheie END"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:127
+msgid "***ERROR: Expected End Of File"
+msgstr "***EROARE: Se aștepta sfârșit de fișier"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:129
+msgid "***ERROR: Expected a colon"
+msgstr "***EROARE: Se aștepta două puncte"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:131
+msgid "***ERROR: Expected a comma"
+msgstr "***EROARE: Se aștepta o virgulă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:133
+msgid "***ERROR: Expected a semicolon"
+msgstr "***EROARE: Se aștepta punct si virgulă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:135
+msgid "***ERROR: Expected an equals symbol"
+msgstr "***EROARE: Se aștepta un egal"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:137
+msgid "***ERROR: Expected a positive integer or 0"
+msgstr "***EROARE: Se aștepta un număr întreg mai mare ca 0"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:139
+msgid "***ERROR: Expected a string of characters not including reserved words"
+msgstr "***EROARE: Se aștepta un șir de caractere diferit de cuvinte cheie"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:142
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:153
+msgid "***ERROR: Expected logic types CLOCK, SWITCH, AND, NAND, NOR, OR, DTYPE, SIGGEN or XOR"
+msgstr "***EROARE: Se aștepta tipuri logice CLOCK, SWITCH, AND, NAND, NOR, OR, DTYPE, SIGGEN sau XOR"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:145
+msgid "***ERROR: Expected a left bracket"
+msgstr "***EROARE: Se aștepta paranteză stângă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:147
+msgid "***ERROR: Expected a right bracket"
+msgstr "***EROARE: Se aștepta paranteză dreaptă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:149
+msgid "***ERROR: Invalid configuration variable"
+msgstr "***EROARE: Variabilă de configurație invalidă"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:151
+msgid "***ERROR: Expected configuration variable"
+msgstr "***EROARE: Se aștepta o variabilă de configurație"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:156
+msgid "***ERROR: Did not expect configuration variable"
+msgstr "***EROARE: Nu se aștepta o variabilă de configurație"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:158
+msgid "***ERROR: Device already defined"
+msgstr "***ERROR: Dispozitiv deja definit"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:160
+msgid "***ERROR: Too many configuration variables specified"
+msgstr "***ERROR: Prea multe variabile de configurație specificate"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:162
+msgid "***ERROR: Invalid configuration variables used - "
+msgstr "***EROARE: Variabilele de configurație folosite sunt invalide "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:163
+msgid "only 0s and 1s accepted"
+msgstr "doar 0 și 1 sunt acceptate"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:165
+msgid "***ERROR: Input is connected to an input"
+msgstr "***ERROR: Intrare conectată la intrare"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:167
+msgid "***ERROR: Output is connected to an output"
+msgstr "***ERROR: Ieșire conectată la ieșire"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:169
+msgid "***ERROR: Input has already been connected"
+msgstr "***ERROR: Intrare deja conectată"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:171
+msgid "***ERROR: Port is absent"
+msgstr "***ERROR: Portul e inexistent"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:173
+msgid "***ERROR: Device is absent"
+msgstr "***ERROR: Dispozitivul e absent"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:175
+msgid "***ERROR: Only monitor outputs"
+msgstr "***ERROR: Se pot monitoriza doar ieșiri"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:177
+msgid "***ERROR: Output has already been monitored"
+msgstr "***ERROR: Ieșire deja monitorizată"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:179
+msgid "***ERROR: Unused inputs in file definition"
+msgstr "***ERROR:Intrări definite nefolosite"
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/parse.py:569
+msgid "Total number of errors: "
+msgstr "Număr total de erori: "
+
+#: /groups/IIA/GF2/GF2team12/ada28/Logic_simulator/scanner.py:283
+msgid "Line: "
+msgstr "Linia: "
+
