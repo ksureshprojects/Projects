@@ -1,1 +1,1 @@
-This repository outlines projects contributed to by Karthik Suresh.
+This repository outlines personal, academic, and competitive projects contributed to by Karthik Suresh.
