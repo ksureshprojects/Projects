@@ -27,21 +27,21 @@ For more detailed instructions please refer to the user guide included in this f
 
 # Supervised Learning
 
-## Random Forest Models
+### Random Forest Models
 This is exploration aims to evaluate and understand Random Forest regression. 
 
 The notebook can be viewed in a static format [here](https://ksureshprojects.github.io/RandomForest.html).
 
 # Unsupervised Learning
 
-## Clustering
+### Clustering
 This is exploration aims to evaluate and understand certain methods of clustering.
 
 The notebook can be viewed in a static format [here](https://ksureshprojects.github.io/Clustering.html).
 
 # Dimensionality Reduction
 
-## Singular Value Decomposition
+### Singular Value Decomposition
 This notebook explores SVD as a means to reduce the dimensionality of a data set prior to the application of a machine learning method.
 
 The notebook can be viewed in a static format [here](https://ksureshprojects.github.io/SVD.html).
