@@ -30,7 +30,7 @@ For more detailed instructions please refer to the user guide included in this f
 ### Random Forest Models
 This is exploration aims to evaluate and understand Random Forest regression. 
 
-The notebook can be viewed in a static format [here](https://ksureshprojects.github.io/RandomForest.html).
+The notebook can be viewed in a static format [here](https://ksureshprojects.github.io/RandomForests.html).
 
 # Unsupervised Learning
 
